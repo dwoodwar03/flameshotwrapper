@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=flameshotfix
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_GB]=FlameShot
+Name=FlameShot
+Comment[en_GB]=FlameShot - Fixed
+Comment=FlameShot - Fixed
